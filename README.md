@@ -1,2 +1,2 @@
 # Database-Systems
-Database Systems Notes for Prof. Shahram Ghandeharizadeh
+Database Systems Notes; Prof. Shahram Ghandeharizadeh
